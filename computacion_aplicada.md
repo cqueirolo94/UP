@@ -1,7 +1,7 @@
 # Computación aplicada
 Profesor: Matias Chiesa - Online Asincrónica
 
-Fecha de final: Miércoles 10/07/2024 de 18:00hs a 21:00hs 
+Fecha de final: Jueves 04/07/2024 de 18:00hs a 21:00hs 
 
 ## Trabajo práctico
 #### SSH
